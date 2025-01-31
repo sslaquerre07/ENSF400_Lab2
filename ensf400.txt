@@ -2,3 +2,4 @@ Sam's First Commit on his branch!
 Sam's Second Commit on his branch!
 Sam's Third Commit on his branch!
 Paulo's First Commit on his branch!
+Paulo's Second Commit on his branch!
